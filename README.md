@@ -1,8 +1,4 @@
 ### (,,･∀･)ﾉ゛hello
-这是一个小号🎺
-
-可以在[@hishark](https://github.com/hishark)找到我~
-
 
 <!--
 **hishark777/hishark777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
